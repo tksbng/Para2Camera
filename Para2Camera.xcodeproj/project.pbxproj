@@ -17,10 +17,8 @@
 		FF0B798817C8378E0098A35E /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B798717C8378E0098A35E /* Default@2x.png */; };
 		FF0B798A17C8378E0098A35E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B798917C8378E0098A35E /* Default-568h@2x.png */; };
 		FF0B798D17C8378E0098A35E /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF0B798B17C8378E0098A35E /* MainStoryboard.storyboard */; };
-		FF0B799017C8378E0098A35E /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF0B798F17C8378E0098A35E /* FirstViewController.m */; };
 		FF0B799217C8378E0098A35E /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B799117C8378E0098A35E /* first.png */; };
 		FF0B799417C8378E0098A35E /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B799317C8378E0098A35E /* first@2x.png */; };
-		FF0B799717C8378E0098A35E /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF0B799617C8378E0098A35E /* SecondViewController.m */; };
 		FF0B799917C8378E0098A35E /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B799817C8378E0098A35E /* second.png */; };
 		FF0B799B17C8378E0098A35E /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B799A17C8378E0098A35E /* second@2x.png */; };
 		FF0B79A317C8378E0098A35E /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF0B79A217C8378E0098A35E /* SenTestingKit.framework */; };
@@ -28,6 +26,12 @@
 		FF0B79A517C8378E0098A35E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF0B797517C8378E0098A35E /* Foundation.framework */; };
 		FF0B79AD17C8378E0098A35E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FF0B79AB17C8378E0098A35E /* InfoPlist.strings */; };
 		FF0B79B017C8378E0098A35E /* Para2CameraTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FF0B79AF17C8378E0098A35E /* Para2CameraTests.m */; };
+		FF0B79BD17C837B90098A35E /* icon_edit.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B79B917C837B90098A35E /* icon_edit.png */; };
+		FF0B79BE17C837B90098A35E /* icon_view.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B79BA17C837B90098A35E /* icon_view.png */; };
+		FF0B79BF17C837B90098A35E /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B79BB17C837B90098A35E /* Icon.png */; };
+		FF0B79C017C837B90098A35E /* no_image.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B79BC17C837B90098A35E /* no_image.png */; };
+		FF0B79C317C838BA0098A35E /* ListTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FF0B79C217C838BA0098A35E /* ListTVC.m */; };
+		FF0B79C617C839150098A35E /* AnimVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FF0B79C517C839150098A35E /* AnimVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,12 +59,8 @@
 		FF0B798717C8378E0098A35E /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		FF0B798917C8378E0098A35E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		FF0B798C17C8378E0098A35E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		FF0B798E17C8378E0098A35E /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
-		FF0B798F17C8378E0098A35E /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		FF0B799117C8378E0098A35E /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		FF0B799317C8378E0098A35E /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		FF0B799517C8378E0098A35E /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
-		FF0B799617C8378E0098A35E /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		FF0B799817C8378E0098A35E /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		FF0B799A17C8378E0098A35E /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
 		FF0B79A117C8378E0098A35E /* Para2CameraTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Para2CameraTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -69,6 +69,14 @@
 		FF0B79AC17C8378E0098A35E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FF0B79AE17C8378E0098A35E /* Para2CameraTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Para2CameraTests.h; sourceTree = "<group>"; };
 		FF0B79AF17C8378E0098A35E /* Para2CameraTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Para2CameraTests.m; sourceTree = "<group>"; };
+		FF0B79B917C837B90098A35E /* icon_edit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_edit.png; sourceTree = "<group>"; };
+		FF0B79BA17C837B90098A35E /* icon_view.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_view.png; sourceTree = "<group>"; };
+		FF0B79BB17C837B90098A35E /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		FF0B79BC17C837B90098A35E /* no_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = no_image.png; sourceTree = "<group>"; };
+		FF0B79C117C838BA0098A35E /* ListTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ListTVC.h; path = ../ListTVC.h; sourceTree = "<group>"; };
+		FF0B79C217C838BA0098A35E /* ListTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ListTVC.m; path = ../ListTVC.m; sourceTree = "<group>"; };
+		FF0B79C417C839150098A35E /* AnimVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimVC.h; sourceTree = "<group>"; };
+		FF0B79C517C839150098A35E /* AnimVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnimVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +106,10 @@
 		FF0B796717C8378E0098A35E = {
 			isa = PBXGroup;
 			children = (
+				FF0B79B917C837B90098A35E /* icon_edit.png */,
+				FF0B79BA17C837B90098A35E /* icon_view.png */,
+				FF0B79BB17C837B90098A35E /* Icon.png */,
+				FF0B79BC17C837B90098A35E /* no_image.png */,
 				FF0B797917C8378E0098A35E /* Para2Camera */,
 				FF0B79A817C8378E0098A35E /* Para2CameraTests */,
 				FF0B797217C8378E0098A35E /* Frameworks */,
@@ -128,18 +140,18 @@
 		FF0B797917C8378E0098A35E /* Para2Camera */ = {
 			isa = PBXGroup;
 			children = (
+				FF0B79C117C838BA0098A35E /* ListTVC.h */,
+				FF0B79C217C838BA0098A35E /* ListTVC.m */,
 				FF0B798217C8378E0098A35E /* AppDelegate.h */,
 				FF0B798317C8378E0098A35E /* AppDelegate.m */,
 				FF0B798B17C8378E0098A35E /* MainStoryboard.storyboard */,
-				FF0B798E17C8378E0098A35E /* FirstViewController.h */,
-				FF0B798F17C8378E0098A35E /* FirstViewController.m */,
 				FF0B799117C8378E0098A35E /* first.png */,
 				FF0B799317C8378E0098A35E /* first@2x.png */,
-				FF0B799517C8378E0098A35E /* SecondViewController.h */,
-				FF0B799617C8378E0098A35E /* SecondViewController.m */,
 				FF0B799817C8378E0098A35E /* second.png */,
 				FF0B799A17C8378E0098A35E /* second@2x.png */,
 				FF0B797A17C8378E0098A35E /* Supporting Files */,
+				FF0B79C417C839150098A35E /* AnimVC.h */,
+				FF0B79C517C839150098A35E /* AnimVC.m */,
 			);
 			path = Para2Camera;
 			sourceTree = "<group>";
@@ -257,6 +269,10 @@
 				FF0B799417C8378E0098A35E /* first@2x.png in Resources */,
 				FF0B799917C8378E0098A35E /* second.png in Resources */,
 				FF0B799B17C8378E0098A35E /* second@2x.png in Resources */,
+				FF0B79BD17C837B90098A35E /* icon_edit.png in Resources */,
+				FF0B79BE17C837B90098A35E /* icon_view.png in Resources */,
+				FF0B79BF17C837B90098A35E /* Icon.png in Resources */,
+				FF0B79C017C837B90098A35E /* no_image.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,8 +309,8 @@
 			files = (
 				FF0B798017C8378E0098A35E /* main.m in Sources */,
 				FF0B798417C8378E0098A35E /* AppDelegate.m in Sources */,
-				FF0B799017C8378E0098A35E /* FirstViewController.m in Sources */,
-				FF0B799717C8378E0098A35E /* SecondViewController.m in Sources */,
+				FF0B79C317C838BA0098A35E /* ListTVC.m in Sources */,
+				FF0B79C617C839150098A35E /* AnimVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -406,6 +422,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Para2Camera/Para2Camera-Prefix.pch";
 				INFOPLIST_FILE = "Para2Camera/Para2Camera-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -417,6 +434,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Para2Camera/Para2Camera-Prefix.pch";
 				INFOPLIST_FILE = "Para2Camera/Para2Camera-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -475,6 +493,7 @@
 				FF0B79B517C8378F0098A35E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FF0B79B617C8378F0098A35E /* Build configuration list for PBXNativeTarget "Para2CameraTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +502,7 @@
 				FF0B79B817C8378F0098A35E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
